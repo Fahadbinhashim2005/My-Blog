@@ -2,10 +2,10 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/VFX/index.html",
       "/posts/My Hopes/index.html",
       "/posts/New_Thoughts/index.html",
       "/posts/post-with-code/index.html",
-      "/posts/VFX/index.html",
       "/posts/welcome/index.html"
     ]
   }
